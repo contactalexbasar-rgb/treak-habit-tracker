@@ -30,8 +30,8 @@
       "name": "Today's Habits",
       "short_name": "Today",
       "description": "Open today's habit list",
-      "url": "/streak-habit-tracker/",
-      "scope": "/streak-habit-tracker/",
+      "url": "/treak-habit-tracker/",
+      "scope": "/treak-habit-tracker/",
       "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
     }
   ]
